@@ -2,14 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/home/acc.besmera2/public_html/S17-CSCI242/statics/config/Config.php</file>
-            <file>file:/home/acc.besmera2/public_html/S17-CSCI242/namespaces/namespace/Zend/Form/Input/Button.php</file>
-            <file>file:/home/acc.besmera2/public_html/S17-CSCI242/statics/config/index.php</file>
-            <file>file:/home/acc.besmera2/public_html/S17-CSCI242/namespaces/namespace/index.php</file>
-            <file>file:/home/acc.besmera2/public_html/S17-CSCI242/exceptions/index.php</file>
-            <file>file:/home/acc.besmera2/public_html/S17-CSCI242/exceptions/NoSubscriptionException.php</file>
-            <file>file:/home/acc.besmera2/public_html/S17-CSCI242/exceptions/Mp4Stream.php</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
