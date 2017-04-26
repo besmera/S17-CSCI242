@@ -1,0 +1,14 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+
+    
+    <p>All People!</p>
+
+    <ul>
+    {% for person in people %}
+        <li><a href="controllers/person/{{person.id}}"> {{ person.name }} </a></li>
+    {% endfor %}
+    </ul>
+{% endblock %}
+

@@ -1,0 +1,8 @@
+besmer_todo:
+    resource: "@BesmerTodoBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
